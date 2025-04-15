@@ -8,6 +8,7 @@
 
 ### 🚀 About Me
 
+- I’m open to work in Full-Stack development and Data Engineering roles
 - 🎓 CS Student 
 - 🌍 Founder of **The Brooklyn Web Designer**  
 - 💻 Web Designer in Luxury Interior Design  
