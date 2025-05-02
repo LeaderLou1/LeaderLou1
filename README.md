@@ -47,16 +47,15 @@
 ### 🌟 Featured Projects
 
 🔸 [**Ballot**](https://github.com/YOUR_USERNAME/ballot) – Civic engagement platform  
-🔸 [**ParkQuest 2.0**](https://github.com/YOUR_USERNAME/parkquest) – National parks platform  
-🔸 [**FinSight**](https://github.com/YOUR_USERNAME/finsight) – Financial literacy made simple  
-🔸 [**ElevenLabs Clone**](https://github.com/YOUR_USERNAME/elevenlabs-clone) – AI voice gen with PyTorch + FastAPI  
+🔸 [**ParkQuest **](https://github.com/YOUR_USERNAME/parkquest) – National parks platform  
+
 
 ---
 
 ### 📬 Connect With Me
 
-[![Website](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![Website](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://thebrooklynwebdesigner.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/louisjager)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
