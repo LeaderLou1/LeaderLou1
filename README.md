@@ -44,8 +44,8 @@
 
 ### 🌟 Featured Projects
 
-🔸 [**Ballot**](https://github.com/DreamTeamUSA/ballot_usa/blob/main/README.md) – Civic engagement platform  
-🔸 [**ParkQuest**](https://github.com/LouisNicole/ParksProject) – National parks platform  
+🔸 [**Ballot**](https://github.com/DreamTeamUSA/ballot_usa/blob/main/README.md) – Civic Engagement Platform  
+🔸 [**ParkQuest**](https://github.com/LouisNicole/ParksProject) – National Parks platform  
 🔸 [**S&P 500 ETL Pipeline**](https://github.com/ISeeStocks/ISeeStocks)- Financial Analysis
 
 
