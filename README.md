@@ -1,19 +1,17 @@
 <h1 align="center">Hey, I'm Coji 👋</h1>
 
 <p align="center">
-  🔧 Builder | 🧠 Tech Enthusiast | 🌐 Brooklyn-Based Full Stack Software Engineer/Data Engineer
+  🔧 Builder | 🧠 Tech Enthusiast | 🌐 Brooklyn-Based Full Stack Software Engineer | Data Engineer | Problem Sover
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- I’m open to work in Full-Stack development and Data Engineering roles
-- 🎓 CS Student 
-- 🌍 Founder of **The Brooklyn Web Designer**  
-- 💻 Web Designer in Luxury Interior Design  
-- 🔬 Currently learning deep learning ( AWS, PyTorch, FastAPI)  
-- 💡 Always building and improving: from civic tech to finance tools to AI apps  
+- I’m open to work in Full-Stack Development and Data Engineering roles
+- 🌍 Founder of **The Brooklyn Web Designer**(https://www.thebrooklynwebdesigner.com)  
+- 🔬 Currently learning advanced systrm design patterns, CI/CD best practices
+- 💡 Always building and improving  
 
 ---
 
