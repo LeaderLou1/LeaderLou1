@@ -9,8 +9,8 @@
 ### 🚀 About Me
 
 - I’m open to work in Full-Stack Development and Data Engineering roles
-- 🌍 Founder of **The Brooklyn Web Designer**(https://www.thebrooklynwebdesigner.com)  
-- 🔬 Currently learning advanced systrm design patterns, CI/CD best practices
+- 🌍 Founder of **The Brooklyn Web Designer** 
+- 🔬 Currently learning advanced system design patterns, CI/CD best practices
 - 💡 Always building and improving  
 
 ---
